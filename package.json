@@ -1,0 +1,25 @@
+{
+  "name": "cia_2_lnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node logger.js",
+    "dev": "nodemon Task_6_NodeMon_Monitoring.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagan-aditya01/CIA_2_LnT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagan-aditya01/CIA_2_LnT/issues"
+  },
+  "homepage": "https://github.com/gagan-aditya01/CIA_2_LnT#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
